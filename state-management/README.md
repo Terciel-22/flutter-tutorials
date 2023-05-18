@@ -1,3 +1,5 @@
+## State Management
+
 When studying state management in Flutter, consider the following steps:
 
 1. Understand the Need: Start by understanding why state management is crucial in Flutter applications. Learn about the challenges of managing and synchronizing data across different widgets, handling user interactions, and maintaining application state.
